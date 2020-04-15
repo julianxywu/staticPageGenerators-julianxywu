@@ -4,6 +4,6 @@ title: About
 ---
 
 # About page
-# Name: Julian
+# Name: Julian Wu
 
 This page tells you a little bit about me.
